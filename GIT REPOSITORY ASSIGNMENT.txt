@@ -1,0 +1,21 @@
+git remote -v 
+
+git remote set-url origin <repo-name>
+
+git remote -v 
+
+git add .
+
+git commit -m "committed first code"
+
+git push origin develop
+
+give your name and key
+
+1st Task- need to Configure Jenkins 
+
+2nd- Create Github Account and create repository 
+
+3rd - Use the commands which was provided in class and clone the repository and made some changes and push it again to your repository 
+
+4th- Integration of Github With Jenkins
